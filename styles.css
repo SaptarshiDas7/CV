@@ -25,16 +25,16 @@
   font-size:400%;
   font-weight: bold;
   font-family:sans-serif;
-  animation:mymove 6s infinite;
+  //animation:mymove 6s infinite;
 }
 
-@keyframes mymove {
+/*@keyframes mymove {
   0%   {color:red;left:0px;}
   25%  {left:0px;}
   75%  {left:200px;font-size:200%; }
   100% {color:#edc70b;left:200px;}
 }
-
+*/
 #about1{
   color:#1551ea;
   font-weight:bold;
